@@ -1,0 +1,12 @@
+{
+  "name": "crestron-anbindung",
+  "version": "1.0.0",
+  "description": "WebSocket-TCP-Bridge für Crestron",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.15.0"
+  }
+}
