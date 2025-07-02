@@ -1,0 +1,4 @@
+// SIMPL+ Header Datei fuer Crestron API Signale
+DIGITAL_INPUT Light_On;
+ANALOG_INPUT Volume_Level;
+SERIAL_INPUT Source_Select$;
